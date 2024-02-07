@@ -1,0 +1,32 @@
+﻿^contentpage {
+    background-color: #FDF5E6;
+}
+
+#header{
+    font-size-adjust: 40;
+    
+}
+
+#entry {
+    background-color: #FDF5E6;
+    color: darkolivegreen;
+}
+
+#button {
+    margin-top: 30;
+    background-color: #808000;
+}
+
+#else {
+    font-size: 14;
+    background-color: #FFE4B5;
+    color: darkolivegreen;
+}
+
+label {
+    color: darkolivegreen;
+}
+
+.LabelTextColor {
+    color: darkolivegreen;
+}
